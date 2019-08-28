@@ -6,3 +6,4 @@
 6. ScrollFlow: https://github.com/eskju/eskju-jquery-scrollflow -------- animation image
 7. WOW: https://wowjs.uk/
 8. Isotope: https://isotope.metafizzy.co/ ------- Filter image
+9. Animista: http://animista.net/play/entrances/fade-in ----- animation
