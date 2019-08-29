@@ -8,3 +8,4 @@
 8. Isotope: https://isotope.metafizzy.co/ ------- Filter image
 9. Animista: http://animista.net/play/entrances/fade-in ----- animation
 10. Luxy.js: https://www.cssscript.com/demo/inertial-parallax-scroll-luxy/    --------- Scroll smooth
+11. SweetAlert: https://sweetalert2.github.io/#download    ----------------- Style Alret javascript
